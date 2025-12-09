@@ -1,0 +1,7 @@
+{
+  "name": "STUFIN",
+  "description": "A smart personal finance calculator and adviser for students, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
